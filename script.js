@@ -6,7 +6,7 @@ img.src = './media/flappy-bird-set.png';
 //general settings
 let gamePlaying = false;
 const gravity = .5;
-const speed = 6.2; //vitesse de défilement (paramétrable)
+const speed = 5.2; //vitesse de défilement (paramétrable)
 const size = [51, 36];
 const jump = -11.5;
 const cTenth = (canvas.width / 10);
